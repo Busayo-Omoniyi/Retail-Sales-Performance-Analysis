@@ -53,14 +53,17 @@ Raw Dataset → Data Cleaning → SQL Analysis → Power BI Dashboard → Busine
 Provides an overview of business performance through key KPIs, sales trends, regional performance, category performance, and customer segment analysis.
 
 ### Profitability Dashboard
+<img width="808" height="457" alt="Prof dashboard" src="https://github.com/user-attachments/assets/029a5a41-063e-43bf-8f25-19226175fc9d" />
 
 Analyzes profit by category and region, identifies loss-making products, and examines the relationship between discounts and profitability.
 
 ### Customer Dashboard
+<img width="770" height="432" alt="cust dashboard" src="https://github.com/user-attachments/assets/f7d042f2-f83f-4de7-8d4c-40936688f59c" />
 
 Highlights the highest-value customers and compares customer segment performance.
 
 ### Time Analysis Dashboard
+<img width="768" height="428" alt="time analysis dash 2" src="https://github.com/user-attachments/assets/d61e0d97-3c73-4a87-aa5b-ffa0e0115cd6" />
 
 Explores monthly and quarterly sales trends to identify seasonal patterns and long-term business growth.
 
