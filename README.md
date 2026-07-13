@@ -1,4 +1,6 @@
 # 📊 Retail Sales Performance Analysis
+*A SQL & Power BI case study analyzing sales performance, profitability, customer behavior, and business trends.*
+<img width="815" height="459" alt="Executive dashboard M" src="https://github.com/user-attachments/assets/731819aa-2cdd-4dc7-9334-4e53e5d3a428" />
 
 ## Project Overview
 
