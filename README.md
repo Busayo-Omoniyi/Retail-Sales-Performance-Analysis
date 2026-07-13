@@ -93,7 +93,6 @@ Explores monthly and quarterly sales trends to identify seasonal patterns and lo
 
 ## Repository Contents
 
-* Power BI Dashboard (.pbix)
 * Business Case Study (PDF)
 * SQL Queries (.sql)
 
